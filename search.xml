@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>新开始</title>
+      <link href="//posts/new-start/"/>
+      <url>//posts/new-start/</url>
+      
+        <content type="html"><![CDATA[<h1 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h1><p>博客迁移更新中…</p><p>目前正在整理以前写的博客<del>以及黑历史</del>。</p><h1 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h1><h2 id="测试-1"><a href="#测试-1" class="headerlink" title="测试 1"></a>测试 1</h2><h3 id="测试-2"><a href="#测试-2" class="headerlink" title="测试 2"></a>测试 2</h3><p>\begin{aligned}<br>    \mathrm{I} &amp;&#x3D; \mathrm{d} \boldsymbol{r} (u, v) \cdot \mathrm{d} \boldsymbol{r} (u, v) \\<br>    &amp;&#x3D; \big( \boldsymbol{r}_u (u, v) \mathrm{d} u + \boldsymbol{r}_v (u, v) \mathrm{d} v \big) \cdot \big( \boldsymbol{r}_u (u, v) \mathrm{d} u + \boldsymbol{r}_v (u, v) \mathrm{d} v \big) \\<br>    &amp;&#x3D; E(u, v) (\mathrm{d} u)^2 + 2F(u, v) \mathrm{d} u \mathrm{d} v + G(u, v) (\mathrm{d} v)^2 \\<br>    &amp;&#x3D; \begin{pmatrix} \mathrm{d} u, \mathrm{d} v \end{pmatrix} \begin{pmatrix} E &amp; F \\ F &amp; G \end{pmatrix} \begin{pmatrix} \mathrm{d} u \ \mathrm{d} v \end{pmatrix} \\<br>\end{aligned}</p><p>第一基本形式 $\mathrm{I} &#x3D; \mathrm{d} \boldsymbol{r} (u, v) \cdot \mathrm{d} \boldsymbol{r} (u, v)$</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="//posts/helloworld.html"/>
+      <url>//posts/helloworld.html</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 测试 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>luogu1514</title>
+      <link href="//posts/competitive-programming/luogu1514/"/>
+      <url>//posts/competitive-programming/luogu1514/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习 </category>
+          
+          <category> 算法竞赛 </category>
+          
+          <category> 搜索 </category>
+          
+          <category> BFS </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>洛谷P1995 程序自动分析</title>
+      <link href="//posts/competitive-programming/luogu1995/"/>
+      <url>//posts/competitive-programming/luogu1995/</url>
+      
+        <content type="html"><![CDATA[<h2 id="题目相关"><a href="#题目相关" class="headerlink" title="题目相关"></a>题目相关</h2><h3 id="链接：https-www-luogu-org-problem-show-pid-1955"><a href="#链接：https-www-luogu-org-problem-show-pid-1955" class="headerlink" title="链接：https://www.luogu.org/problem/show?pid=1955"></a>链接：<a href="https://www.luogu.org/problem/show?pid=1955">https://www.luogu.org/problem/show?pid=1955</a></h3><h2 id="解析"><a href="#解析" class="headerlink" title="解析"></a>解析</h2><p>这道题一般能看出来是并查集。</p><p>但是，i、j的范围似乎有一点鬼畜。。。。。。</p><p>但是n的范围还是比较友好的。</p><p>所以，我们要用的一招叫做离散化。</p><h2 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h2><figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;cstdio&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;algorithm&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;cstring&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"></span><br><span class="line"><span class="keyword">struct</span> <span class="title class_">node</span> &#123;</span><br><span class="line">    <span class="type">int</span> x, y;</span><br><span class="line">    <span class="type">int</span> r;</span><br><span class="line">&#125; a[<span class="number">100010</span>];</span><br><span class="line"></span><br><span class="line"><span class="type">int</span> n, t, c[<span class="number">200210</span>], tot, fa[<span class="number">200210</span>];</span><br><span class="line"><span class="type">int</span> unique_num_count;</span><br><span class="line"><span class="type">bool</span> yes;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">find_fa</span><span class="params">(<span class="type">int</span> x)</span></span>&#123;</span><br><span class="line">    <span class="keyword">if</span> (fa[x] != x) </span><br><span class="line">        fa[x] = <span class="built_in">find_fa</span>(fa[x]);</span><br><span class="line">    <span class="keyword">return</span> fa[x];</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">()</span></span>&#123;</span><br><span class="line">    <span class="built_in">scanf</span>(<span class="string">&quot;%d&quot;</span>, &amp;t);</span><br><span class="line">    <span class="keyword">while</span> (t--) &#123;</span><br><span class="line">        yes = <span class="literal">true</span>;</span><br><span class="line">        <span class="built_in">scanf</span>(<span class="string">&quot;%d&quot;</span>, &amp;n);</span><br><span class="line">        tot = <span class="number">0</span>;</span><br><span class="line">        <span class="built_in">memset</span>(c, <span class="number">0</span>, <span class="built_in">sizeof</span>(c));</span><br><span class="line">        <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">1</span>; i &lt;= <span class="number">2</span> * n; ++i) fa[i] = i;</span><br><span class="line">        <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">1</span>; i &lt;= n; ++i) &#123;</span><br><span class="line">            <span class="built_in">scanf</span>(<span class="string">&quot;%d%d%d&quot;</span>, &amp;a[i].x, &amp;a[i].y, &amp;a[i].r);</span><br><span class="line">            c[++tot] = a[i].x;</span><br><span class="line">            c[++tot] = a[i].y;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="built_in">sort</span>(c + <span class="number">1</span>, c + <span class="number">1</span> + tot);</span><br><span class="line">        unique_num_count = <span class="built_in">unique</span>(c + <span class="number">1</span>, c + <span class="number">1</span> + tot) - c - <span class="number">1</span>;</span><br><span class="line">        <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">1</span>; i &lt;= n; ++i) &#123;</span><br><span class="line">            a[i].x = <span class="built_in">upper_bound</span>(c + <span class="number">1</span>, c + <span class="number">1</span> + unique_num_count, a[i].x) - c - <span class="number">1</span>;</span><br><span class="line">            a[i].y = <span class="built_in">upper_bound</span>(c + <span class="number">1</span>, c + <span class="number">1</span> + unique_num_count, a[i].y) - c - <span class="number">1</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">1</span>; i &lt;= n; ++i) &#123;</span><br><span class="line">            <span class="keyword">if</span> (a[i].r) &#123;</span><br><span class="line">                <span class="type">int</span> f1 = <span class="built_in">find_fa</span>(a[i].x), f2 = <span class="built_in">find_fa</span>(a[i].y);</span><br><span class="line">                <span class="keyword">if</span> (f1 != f2) </span><br><span class="line">                    fa[f1] = f2;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">1</span>; i &lt;= n; ++i) &#123;</span><br><span class="line">            <span class="keyword">if</span> (!a[i].r)&#123;</span><br><span class="line">                <span class="type">int</span> f1 = <span class="built_in">find_fa</span>(a[i].x), f2 = <span class="built_in">find_fa</span>(a[i].y);</span><br><span class="line">                <span class="keyword">if</span> (f1 == f2) &#123;</span><br><span class="line">                    yes = <span class="literal">false</span>;</span><br><span class="line">                    <span class="keyword">break</span>;</span><br><span class="line">                &#125;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">if</span> (yes) <span class="built_in">printf</span>(<span class="string">&quot;YES\n&quot;</span>);</span><br><span class="line">        <span class="keyword">else</span> <span class="built_in">printf</span>(<span class="string">&quot;NO\n&quot;</span>);</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习 </category>
+          
+          <category> 算法竞赛 </category>
+          
+          <category> 数据结构 </category>
+          
+          <category> 并查集 </category>
+          
+          <category> 杂项 </category>
+          
+          <category> 离散化 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
