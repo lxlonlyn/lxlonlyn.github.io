@@ -2845,6 +2845,9 @@ figure.highlight pre .javascript .function {
   -ms-transform: rotate(0);
   transform: rotate(0);
 }
+#aside-content .card-categories .card-category-list > .parent > .child {
+  display: none;
+}
 #aside-content .card-webinfo .webinfo .webinfo-item {
   display: -webkit-box;
   display: -moz-box;
